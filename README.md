@@ -1,6 +1,7 @@
 # python_web_scraper_for_cocktails
 
 This Python script scrapes cocktail recipe data from Destination Cocktails. It extracts information such as category, title, link, and image link for each cocktail recipe and saves it to a CSV file.
+![alt text](https://github.com/putongyong/python_web_scraper_for_cocktails/blob/main/example.png)
 
 ## Usage
 1. Make sure you have Python (3.x) installed.
